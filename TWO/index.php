@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
 $user = 'root';
-$password = 'newpassword';
-$dbName = 'student_registration';
+$password = 'benoit';
+$dbName = 'registration';
 
 $message = '';
 
